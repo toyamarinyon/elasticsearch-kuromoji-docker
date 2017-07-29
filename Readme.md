@@ -1,0 +1,1 @@
+# Elasticsearch with kuromoji plugin
